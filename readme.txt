@@ -17,4 +17,6 @@ For Spoutcam use ( Streaming to Google Meet, Twitch or whatever ) make sure the 
 
 -----------------
 
+Network preview video: https://drive.google.com/file/d/1TC7VAYJsMM_9B-ZAcp9pz2wTmcBIIywV/view?usp=sharing
+
 Thank you! Enjoy.
